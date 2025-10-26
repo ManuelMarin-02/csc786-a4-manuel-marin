@@ -1,0 +1,6 @@
+food_name,search_term,fdcId,dataType,Protein (g),Fat (g),Carbs (g),Calories
+FRENCH FRIES,french fries,2093015,Branded,2.38,8.33,22.6,179
+BREAD,bread,2058078,Branded,3.57,0.0,32.1,146
+PIZZA,pizza,2036440,Branded,6.8,8.84,32.0,238
+SALAD,salad,2637940,Branded,2.63,4.61,27.0,151
+CHICKEN WINGS,chicken wings,1906811,Branded,18.6,18.6,0.0,283
